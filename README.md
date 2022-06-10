@@ -14,7 +14,7 @@
 <strong align="left">Summary 📚</strong>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTrung612&layout=compact&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungnv61&layout=compact&langs_count=6"
 />
 
 
