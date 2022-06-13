@@ -5,7 +5,7 @@
 
 <strong align="left">Something about me 🙋🏻‍♂️</strong>
 
-- 🔭 I’m currently working on at University
+<!-- - 🔭 I’m currently working on at University -->
 - ✍️ All my projects are available at https://github.com/trungnv61
 - 💬 Ask me about anything
 - 📫 How to reach me: social network or email
