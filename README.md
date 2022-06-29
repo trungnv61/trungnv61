@@ -6,7 +6,7 @@
 <strong align="left">Something about me 🙋🏻‍♂️</strong>
 
 <!-- - 🔭 I’m currently working on at University -->
-- ✍️ All my projects are available at https://github.com/trungnv61
+- ✍️ All my projects are available at github
 - 💬 Ask me about anything
 - 📫 How to reach me: social network or email
 - ⚡ Fun fact: i love football, travel, and more
