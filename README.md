@@ -8,7 +8,7 @@
 - ✍️ All my projects are available at github
 - 💬 Ask me about anything
 - 📫 How to reach me: social network or email
-- ⚡ Fun fact: i love football, travel, and more
+- ⚡ Fun fact: i like football, travel, and more
 
 <strong align="left">Summary 📚</strong>
 
