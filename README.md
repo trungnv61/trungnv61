@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Van Trung</h1>
+<h1 align="center">Hi👋, I'm Nguyen Van Trung</h1>
 <h3 align="center">Love to build and share new things with others</h3>
 
 
