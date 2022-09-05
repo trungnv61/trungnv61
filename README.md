@@ -10,11 +10,6 @@
 - 📫 How to reach me: social network or email
 
 
-<strong align="left">Summary 📚</strong>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungnv61&layout=compact&langs_count=6"
-/>
 
 
 <strong align="left">Connect with me 🚀</strong>
