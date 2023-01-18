@@ -29,7 +29,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt=""
   /></a>
-  <a href="" target="_blank">
+  <a href="https://twitter.com/trungnv61" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=twitter&logoColor=white"
       alt=""
