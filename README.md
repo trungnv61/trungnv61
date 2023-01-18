@@ -31,7 +31,7 @@
   /></a>
   <a href="" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=twitter&logoColor=white"
       alt=""
   /></a>
 </div>
